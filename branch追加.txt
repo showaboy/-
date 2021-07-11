@@ -1,0 +1,2 @@
+git checkout -b 新しいブランチ名 master でブランチを作成
+git checkout 使用したいブランチ　で作業ブランチを切り替える
