@@ -1,2 +1,7 @@
 git checkout -b 新しいブランチ名 master でブランチを作成
 git checkout 使用したいブランチ　で作業ブランチを切り替える
+
+git push origin developでoriginにdevelopをプッシュしました。
+その後、masterのブランチ上で、git merge developでマージをして、git push -u origin masterでoriginにmasterをプッシュします。
+
+次にPULL REQUESTSを見ていく。
